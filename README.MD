@@ -17,7 +17,7 @@ proyecto_documentacion/
 ├── docs/
 │ └── index.html
 └── README.md
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - PHP 8.x
 - PHPDocumentor
