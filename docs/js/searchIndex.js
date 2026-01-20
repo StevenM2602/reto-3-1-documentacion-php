@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\crearUsuario\u0028\u0029",
+            "name": "crearUsuario",
+            "summary": "Crea\u0020un\u0020usuario",
+            "url": "namespaces/default.html#function_crearUsuario"
+        },                {
+            "fqsen": "\\mostrarUsuario\u0028\u0029",
+            "name": "mostrarUsuario",
+            "summary": "Muestra\u0020los\u0020datos\u0020de\u0020un\u0020usuario",
+            "url": "namespaces/default.html#function_mostrarUsuario"
+        },                {
+            "fqsen": "\\Usuario",
+            "name": "Usuario",
+            "summary": "Clase\u0020Usuario",
+            "url": "classes/Usuario.html"
+        },                {
+            "fqsen": "\\Usuario\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Constructor\u0020de\u0020Usuario",
+            "url": "classes/Usuario.html#method___construct"
+        },                {
+            "fqsen": "\\Usuario\u003A\u003AgetNombre\u0028\u0029",
+            "name": "getNombre",
+            "summary": "Obtiene\u0020el\u0020nombre\u0020del\u0020usuario",
+            "url": "classes/Usuario.html#method_getNombre"
+        },                {
+            "fqsen": "\\Usuario\u003A\u003AgetEmail\u0028\u0029",
+            "name": "getEmail",
+            "summary": "Obtiene\u0020el\u0020email\u0020del\u0020usuario",
+            "url": "classes/Usuario.html#method_getEmail"
+        },                {
+            "fqsen": "\\Usuario\u003A\u003A\u0024nombre",
+            "name": "nombre",
+            "summary": "Nombre\u0020del\u0020usuario",
+            "url": "classes/Usuario.html#property_nombre"
+        },                {
+            "fqsen": "\\Usuario\u003A\u003A\u0024email",
+            "name": "email",
+            "summary": "Email\u0020del\u0020usuario",
+            "url": "classes/Usuario.html#property_email"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
