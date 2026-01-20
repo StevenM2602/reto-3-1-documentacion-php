@@ -24,7 +24,7 @@ proyecto_documentacion/
 - HTML5
 
 
-## 📚 Documentación
+##  Documentación
 
 La documentación del proyecto ha sido generada automáticamente usando **PHPDocumentor**, a partir de los comentarios en formato DocBlock incluidos en el código fuente.
 
@@ -33,14 +33,14 @@ Para visualizarla:
 2. Abre el archivo `index.html` en tu navegador
 
 
-## 🚀 Ejecución del proyecto
+##  Ejecución del proyecto
 
 1. Abre el archivo `index.php` en un servidor local (XAMPP, WAMP, etc.)
 2. Se mostrarán los datos de los usuarios por pantalla
 
 
 
-## 🎯 Objetivo del reto
+##  Objetivo del reto
 
 - Aplicar el estándar de documentación PHPDoc
 - Generar documentación HTML automática
